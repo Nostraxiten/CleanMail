@@ -1,3 +1,4 @@
+
 # CleanMail
 
 AutoCorreo (repositorio: **CleanMail**) es una aplicación de escritorio nativa para **Windows 10 y Windows 11** diseñada para automatizar la organización, clasificación y limpieza de bandejas de entrada de correo electrónico en **Microsoft Outlook** (vía COM API) y **Gmail** (vía API REST con OAuth2).
@@ -14,6 +15,8 @@ El programa clasifica de forma automática tus correos mediante expresiones regu
   - `VERIFICACION`: Códigos OTP o verificación de cuentas
   - `SPAM`: Correo no deseado y sospechoso
   - `SUSCRIPCION`: Newsletters y boletines
+ 
+  - <img width="1490" height="710" alt="Captura de pantalla 2026-05-26 133451" src="https://github.com/user-attachments/assets/061ddd21-d0f5-48b3-a563-8c7e7f738224" />
 
 - **Limpieza de Códigos Expirados**: Los correos detectados como códigos de verificación u OTP se eliminan automáticamente tras 15 minutos de haber sido recibidos
 
