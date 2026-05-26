@@ -1,0 +1,18 @@
+# Ignorar carpetas generadas por compilación y python
+__pycache__/
+*.pyc
+build/
+dist/
+*.spec
+.vscode/
+.idea/
+
+# Ficheros de datos locales
+gmail_token.json
+credentials.json
+autocorreo.log
+
+# Entornos virtuales
+venv/
+.venv/
+env/
